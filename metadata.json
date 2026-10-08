@@ -1,0 +1,6 @@
+{
+  "name": "Kebijakan Privasi - Hitungan JAWA",
+  "description": "Kebijakan Privasi resmi aplikasi Android Hitungan JAWA (Almanak & Kalender Jawa) oleh GecckoCreator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
